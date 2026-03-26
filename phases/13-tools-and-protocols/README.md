@@ -1,5 +1,9 @@
-# Phase 13: Tools & Protocols
+# Phase 13: Tools and Protocols
+Connecting LLMs to the outside world through APIs and execution environments.
 
-> The interfaces between AI and the real world.
-
-See [ROADMAP.md](../../ROADMAP.md) for the full lesson plan.
+## Roadmap
+| Lesson | Description | Status |
+|--------|-------------|--------|
+| 01. Function Calling | JSON schema and tool bindings. | ✅ |
+| 02. LangChain | Chains and integrations. | ⬚ |
+| 03. LlamaIndex | Data connectors. | ⬚ |

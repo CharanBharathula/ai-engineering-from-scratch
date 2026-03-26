@@ -1,5 +1,9 @@
-# Phase 17: Infrastructure & Production
+# Phase 17: Infrastructure and Production
+Deploying LLMs and Agents at scale.
 
-> Ship AI to the real world. Scale, monitor, optimize.
-
-See [ROADMAP.md](../../ROADMAP.md) for the full lesson plan.
+## Roadmap
+| Lesson | Description | Status |
+|--------|-------------|--------|
+| 01. vLLM & TGI | High-throughput inference. | ✅ |
+| 02. Streaming | Server-Sent Events (SSE). | ⬚ |
+| 03. Eval Pipelines | RAGAS, MLflow. | ⬚ |
